@@ -436,6 +436,11 @@ header
     left: calc(50% + 760px);
     background-size: cover;
 }
+.gallery__slider .gallery__slides:nth-child(7)
+{
+    left: calc(50% + 760px);
+    background-size: cover;
+}
 .gallery__buttons
 {
     position: absolute;
